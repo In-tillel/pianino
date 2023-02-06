@@ -88,22 +88,18 @@
 
                 }
                 if (zvuk.Key == ConsoleKey.G)/*G white5*/
-                {
-                    Console.Beep(sound[7], 200);
-
-                }
-                if (zvuk.Key == ConsoleKey.R)/*G# black4*/
-                {
+{
+    {
                     Console.Beep(sound[8], 200);
 
                 }
                 if (zvuk.Key == ConsoleKey.H)/*A White6*/
-                {
+        {
                     Console.Beep(sound[9], 200);
 
                 }
                 if (zvuk.Key == ConsoleKey.T)/*Bb black5*/
-                {
+            {
                     Console.Beep(sound[10], 200);
 
                 }
